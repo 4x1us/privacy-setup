@@ -1,2 +1,2 @@
-# privacy-settings_ua
-Original source: https://github.com/StellarSand
+# Вітаю, товариші.
+## Кожен має право на власну безпеку та анонімність, чи не так?
